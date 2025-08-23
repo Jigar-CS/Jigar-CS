@@ -1,4 +1,4 @@
-# 🌸 Hey there, I'm Jigar!
+#  Hey there, I'm Jigar!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💻;Building+logic+%7C+Designing+websites+🚀;Always+learning+%7C+Always+growing+🌱" alt="Typing animation" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 - 💻 Passionate coder skilled in **C, C++, HTML & CSS**  
 - 🌱 Love building **websites** & solving **problems**  
 - ⚡ Always eager to **learn and grow in tech**  
@@ -16,7 +16,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00FFFF" />
@@ -28,12 +28,12 @@
 
 ---
 
-## 🌐 Socials
+## Socials
 [![Email](https://img.shields.io/badge/Email-111827?logo=gmail&logoColor=white)](mailto:sakhiajigar2020@gmail.com)  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jigar-cs&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
@@ -49,7 +49,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-cs&theme=tokyo-night&hide_border=true&area=true&point=00FFFF" />
