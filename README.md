@@ -7,6 +7,7 @@
 ---
 
 ##  About Me
+🚀 Exploring tech as a Computer Science undergrad — from crafting designs with HTML & CSS to writing efficient code in C++.
 - 💻 Passionate coder skilled in **C, C++, HTML & CSS**  
 - 🌱 Love building **websites** & solving **problems**  
 - ⚡ Always eager to **learn and grow in tech**  
