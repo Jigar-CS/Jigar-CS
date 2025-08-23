@@ -1,15 +1,69 @@
-# 💫 About Me:
-💻 Passionate coder skilled in C, C++, HTML & CSS<br>🌱 Love building websites & solving problems<br>⚡ Always eager to learn and grow in tech
+# 🌸 Hey there, I'm Jigar!
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💻;Building+logic+%7C+Designing+websites+🚀;Always+learning+%7C+Always+growing+🌱" alt="Typing animation" />
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakhiajigar2020@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jigar-cs&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jigar-cs&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-cs&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 💫 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+
+- 💻 Passionate coder skilled in **C, C++, HTML & CSS**  
+- 🌱 Love building **websites** & solving **problems**  
+- ⚡ Always eager to **learn and grow in tech**  
+- 💬 Ask me about **Frontend** or **Problem Solving**!  
+
+<br clear="right"/>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1DA1F2" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F89820" />
+</div>
+
+---
+
+## 🌐 Socials
+[![Email](https://img.shields.io/badge/Email-111827?logo=gmail&logoColor=white)](mailto:sakhiajigar2020@gmail.com)  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jigar-cs&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jigar-cs&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-cs&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-cs&theme=tokyo-night&hide_border=true&area=true&point=00FFFF" />
+</p>
+
+---
+
+## ✍ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
