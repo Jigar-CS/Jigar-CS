@@ -7,11 +7,14 @@
 ---
 
 ## 🔥 About Me
-🚀 Exploring tech as a Computer Science undergrad — from crafting designs with HTML & CSS to writing efficient code in C++.
+🚀 Exploring tech as a **Computer Science undergrad** — from crafting designs with HTML & CSS to writing efficient code in C++ and beyond.  
+
 - 💻 Passionate coder skilled in **C, C++, HTML & CSS**  
 - 🌱 Love building **websites** & solving **problems**  
 - ⚡ Always eager to **learn and grow in tech**  
-- 💬 Ask me about **Frontend** or **Problem Solving**!  
+- 🔭 Currently exploring **Java** and deepening problem-solving skills  
+- 🎯 Interested in **Frontend Development**, **DSA**, and **Open Source**  
+- 💬 Ask me about **Frontend**, **Problem Solving**, or **Tech Basics**  
 
 <br clear="right"/>
 
@@ -20,17 +23,21 @@
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F89820" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub logo" />
 </div>
 
 ---
 
 ## 🌐 Socials
-[![Email](https://img.shields.io/badge/Email-111827?logo=gmail&logoColor=white)](mailto:sakhiajigar2020@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-111827?logo=github&logoColor=white)](https://github.com/Jigar-cs)
+[![Email](https://img.shields.io/badge/Email-111827?logo=gmail&logoColor=white)](mailto:sakhiajigar2020@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-111827?logo=github&logoColor=white)](https://github.com/Jigar-cs)
 
 ---
 
