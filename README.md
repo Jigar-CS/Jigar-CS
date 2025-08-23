@@ -13,8 +13,7 @@
 - 🌱 Love building **websites** & solving **problems**  
 - ⚡ Always eager to **learn and grow in tech**  
 - 🔭 Currently exploring **Java** and deepening problem-solving skills  
-- 🎯 Interested in **Frontend Development**, **DSA**, and **Open Source**  
-- 💬 Ask me about **Frontend**, **Problem Solving**, or **Tech Basics**  
+- 🎯 Interested in **Web Development** and **DSA**  
 
 <br clear="right"/>
 
