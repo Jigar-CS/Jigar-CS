@@ -1,12 +1,12 @@
-#  Hey there, I'm Jigar!
+# ⚡ Hey there, I'm Jigar!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💻;Building+logic+%7C+Designing+websites+🚀;Always+learning+%7C+Always+growing+🌱" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💻;Coding+logic+%7C+Designing+websites+🚀;Always+learning+%7C+Always+growing+⚡" alt="Typing animation" />
 </p>
 
 ---
 
-##  About Me
+## 🔥 About Me
 🚀 Exploring tech as a Computer Science undergrad — from crafting designs with HTML & CSS to writing efficient code in C++.
 - 💻 Passionate coder skilled in **C, C++, HTML & CSS**  
 - 🌱 Love building **websites** & solving **problems**  
@@ -17,25 +17,25 @@
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00FFFF" />
-  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=FF6C37" />
-  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1DA1F2" />
+  <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=F89820" />
 </div>
 
 ---
 
-## Socials
+## 🌐 Socials
 [![Email](https://img.shields.io/badge/Email-111827?logo=gmail&logoColor=white)](mailto:sakhiajigar2020@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-111827?logo=github&logoColor=white)](https://github.com/Jigar-cs)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jigar-cs&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
@@ -51,10 +51,10 @@
 
 ---
 
-## Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-cs&theme=tokyo-night&hide_border=true&area=true&point=00FFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-cs&theme=tokyo-night&hide_border=true&area=true&point=00FF00" />
 </p>
 
 ---
@@ -66,3 +66,9 @@
 </p>
 
 ---
+
+<div align="center">
+  
+  ### ⚡ Thanks for visiting my profile — Keep Coding. Keep Growing. 🚀
+  
+</div>
