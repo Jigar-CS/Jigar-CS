@@ -1,7 +1,7 @@
 # ⚡ Hey there, I'm Jigar!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+💻;Coding+logic+%7C+Designing+websites+🚀;Always+learning+%7C+Always+growing+⚡" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe+💻;Always+learning+%7C+Always+growing+⚡" alt="Typing animation" />
 </p>
 
 ---
