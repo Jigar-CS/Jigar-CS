@@ -31,6 +31,7 @@
 
 ## Socials
 [![Email](https://img.shields.io/badge/Email-111827?logo=gmail&logoColor=white)](mailto:sakhiajigar2020@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-111827?logo=github&logoColor=white)](https://github.com/Jigar-cs)
 
 ---
 
