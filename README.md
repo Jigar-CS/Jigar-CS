@@ -42,15 +42,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jigar-cs&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jigar-cs&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Jigar-cs&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-cs&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=6" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-cs&theme=tokyo-night&hide_border=true&area=true&point=00FF00" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-cs&bg_color=000000&color=00FF00&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ## ✍ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark" />
 </p>
 
 ---
