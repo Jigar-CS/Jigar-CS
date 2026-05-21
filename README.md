@@ -86,8 +86,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=6" height="180" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=10" height="180" />
 </p>
 
 <p align="center">
