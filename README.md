@@ -7,27 +7,27 @@
 ---
 
 ## 🔥 About Me
-🚀 Computer Science Engineering undergraduate passionate about building scalable web solutions, optimizing core performance, and diving deep into technical problem-solving.
+[cite_start]🚀 Computer Science Engineering undergraduate passionate about building scalable web solutions, optimizing core performance, and diving deep into technical problem-solving[cite: 11, 13, 14].
 
-- 💻 Passionate coder experienced in structuring logic across both frontend and backend architectures.
-- ⚡ **Current Focus:** Strengthening Core CS fundamentals, Web Development (including Laravel MVC workflows), and SEO optimization.
-- 🎯 **Areas of Interest:** Data Structures & Algorithms, Database Management Systems, and Web Application Architecture.
+- [cite_start]💻 Passionate coder experienced in structuring logic across both frontend and backend architectures[cite: 13, 14, 18].
+- [cite_start]⚡ **Current Focus:** Strengthening Core CS fundamentals, Web Development (including Laravel MVC workflows), and SEO optimization[cite: 11, 13, 18, 42].
+- [cite_start]🎯 **Areas of Interest:** Data Structures & Algorithms, Database Management Systems, and Web Application Architecture[cite: 40, 41].
 
 ---
 
 ## 🚀 Featured Projects
-- 🗺️ **Traveloop – Personalized Travel Planning App** – Designed an end-to-end relational database and responsive application to simplify multi-city travel planning. Features include an interactive day-wise itinerary builder, dynamic budget estimation and cost breakdowns, a per-trip packing checklist, and shared public itinerary views.
-- 🍱 **Online Food Ordering System** – Developed a web-based ordering application designed for a college canteen to systematically reduce peak-hour wait times.
-- 💼 **Resource Management System** – Built during the Odoo Hackathon to track company employees, manage medical/paid leave requests, send real-time notifications, and generate overall salary reports.
-- 🤖 **AI Meeting Monitor** – Implemented live transcription, overall meeting sentiment detection, and automated text summarization for online meetings.
-- 🎨 **Creative Art Gallery Website** – Built both completely hardcoded and fully dynamic versions to explore end-to-end data rendering workflows.
+- [cite_start]🗺️ **Traveloop – Personalized Travel Planning App** – Designed an end-to-end relational database and responsive application to simplify multi-city travel planning. [cite_start]Features include an interactive day-wise itinerary builder, dynamic budget estimation and cost breakdowns, a per-trip packing checklist, and shared public itinerary views[cite: 131, 152, 157, 163].
+- [cite_start]🍱 **Online Food Ordering System** – Developed a web-based ordering application designed for a college canteen to systematically reduce peak-hour wait times[cite: 59].
+- [cite_start]💼 **Resource Management System** – Built during the online round of the Odoo Hackathon to track company employees, manage medical/paid leave requests, send real-time notifications, and generate overall salary reports[cite: 60, 62].
+- [cite_start]🤖 **AI Meeting Monitor** – Implemented live transcription, overall meeting sentiment detection, and automated text summarization for online meetings[cite: 63].
+- [cite_start]🎨 **Creative Art Gallery Website** – Built both completely hardcoded and fully dynamic versions to explore end-to-end data rendering workflows[cite: 64, 65].
 
 ---
 
 ## 🏆 Hackathons & Milestones
 - 🏅 **Odoo x Parul Hackathon** – Successfully selected as the **26th team out of 103 final selected teams**, competing fiercely in an initial pool of over **700 teams**.
-- 🏅 **State-Level MSBC Hackathon** – Selected among the **Top 25 teams across Gujarat** in a highly competitive state-level challenge competing against 125+ teams.
-- 🚀 **Adobe All India Level Hackathon** – Participated in national-level technical solution-building.
+- [cite_start]🏅 **State-Level MSBC Hackathon** – Selected among the **Top 25 teams across Gujarat** in a highly competitive state-level challenge organized by a multinational company, competing against 125+ teams[cite: 32].
+- [cite_start]🚀 **Adobe All India Level Hackathon** – Participated in national-level technical solution-building[cite: 33].
 
 ---
 
