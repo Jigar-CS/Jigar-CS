@@ -10,22 +10,24 @@
 🚀 Computer Science Engineering undergraduate passionate about building scalable web solutions, optimizing core performance, and diving deep into technical problem-solving.
 
 - 💻 Passionate coder experienced in structuring logic across both frontend and backend architectures.
-- ⚡ **Current Focus:** Strengthening Core CS fundamentals, Web Development, and SEO optimization.
+- ⚡ **Current Focus:** Strengthening Core CS fundamentals, Web Development (including Laravel MVC workflows), and SEO optimization.
 - 🎯 **Areas of Interest:** Data Structures & Algorithms, Database Management Systems, and Web Application Architecture.
 
 ---
 
 ## 🚀 Featured Projects
-- 🍱 **Online Food Ordering System** – Developed a web-based ordering application designed for a college canteen to systematically reduce peak-hour wait times.
-- 💼 **Resource Management System** – Built during the Odoo Hackathon to track company employees, manage medical/paid leave requests, send real-time notifications, and generate overall salary reports.
-- 🤖 **AI Meeting Monitor** – Implemented live transcription, overall meeting sentiment detection, and automated text summarization for online meetings.
-- 🎨 **Creative Art Gallery Website** – Built both completely hardcoded and fully dynamic versions to explore end-to-end data rendering workflows.
+- [cite_start]🗺️ **Traveloop – Personalized Travel Planning App** – Designed an end-to-end relational database and responsive application to simplify multi-city travel planning[cite: 92, 98, 107]. [cite_start]Features include an interactive day-wise itinerary builder [cite: 131, 133][cite_start], dynamic budget estimation and cost breakdowns [cite: 95, 152][cite_start], a per-trip packing checklist [cite: 157, 158][cite_start], and shared public itinerary views[cite: 163, 165].
+- [cite_start]🍱 **Online Food Ordering System** – Developed a web-based ordering application designed for a college canteen to systematically reduce peak-hour wait times[cite: 59].
+- [cite_start]💼 **Resource Management System** – Built during the Odoo Hackathon to track company employees, manage medical/paid leave requests, send real-time notifications, and generate overall salary reports[cite: 62].
+- [cite_start]🤖 **AI Meeting Monitor** – Implemented live transcription, overall meeting sentiment detection, and automated text summarization for online meetings[cite: 63].
+- [cite_start]🎨 **Creative Art Gallery Website** – Built both completely hardcoded and fully dynamic versions to explore end-to-end data rendering workflows[cite: 64, 65].
 
 ---
 
 ## 🏆 Hackathons & Milestones
-- 🏅 **State-Level MSBC Hackathon** – Selected among the **Top 25 teams across Gujarat** in a highly competitive state-level challenge competing against 125+ teams.
-- 🚀 **Adobe All India Level Hackathon** – Participated in national-level technical solution-building.
+- 🏅 **Odoo x Parul Hackathon** – Successfully selected as the **26th team out of 103 final selected teams**, competing fiercely in an initial pool of over **700 teams**.
+- [cite_start]🏅 **State-Level MSBC Hackathon** – Selected among the **Top 25 teams across Gujarat** in a highly competitive state-level challenge competing against 125+ teams[cite: 32].
+- [cite_start]🚀 **Adobe All India Level Hackathon** – Participated in national-level technical solution-building[cite: 33].
 
 ---
 
@@ -40,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel logo" style="margin: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" style="margin: 10px;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo" style="margin: 10px;" />
