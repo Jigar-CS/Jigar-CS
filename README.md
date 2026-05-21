@@ -7,50 +7,57 @@
 ---
 
 ## 🔥 About Me
-🚀 Exploring tech as a **Computer Science undergrad** — from crafting designs with HTML & CSS to writing efficient code in C++ and beyond.  
+🚀 Computer Science Engineering undergraduate passionate about building scalable web solutions, optimizing core performance, and diving deep into technical problem-solving.
 
-- 💻 Passionate coder skilled in **C, C++, HTML & CSS**  
-- 🌱 Love building **websites** & solving **problems**  
-- ⚡ Always eager to **learn and grow in tech**  
-- 🔭 Currently exploring **Java** and deepening problem-solving skills  
-- 🎯 Interested in **Web Development** and **DSA**  
+- 💻 Passionate coder experienced in structuring logic across both frontend and backend architectures.
+- ⚡ **Current Focus:** Strengthening Core CS fundamentals, Web Development, and SEO optimization.
+- 🎯 **Areas of Interest:** Data Structures & Algorithms, Database Management Systems, and Web Application Architecture.
 
-<br clear="right"/>
+---
+
+## 🚀 Featured Projects
+- 🍱 **Online Food Ordering System** – Developed a web-based ordering application designed for a college canteen to systematically reduce peak-hour wait times.
+- 💼 **Resource Management System** – Built during the Odoo Hackathon to track company employees, manage medical/paid leave requests, send real-time notifications, and generate overall salary reports.
+- 🤖 **AI Meeting Monitor** – Implemented live transcription, overall meeting sentiment detection, and automated text summarization for online meetings.
+- 🎨 **Creative Art Gallery Website** – Built both completely hardcoded and fully dynamic versions to explore end-to-end data rendering workflows.
+
+---
+
+## 🏆 Hackathons & Milestones
+- 🏅 **State-Level MSBC Hackathon** – Selected among the **Top 25 teams across Gujarat** in a highly competitive state-level challenge competing against 125+ teams.
+- 🚀 **Adobe All India Level Hackathon** – Participated in national-level technical solution-building.
 
 ---
 
 ## 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" style="margin: 10px;" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" style="margin: 10px;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub logo" style="margin: 10px;" />
 </div>
-
----
-
-## 🌐 Socials
-[![Email](https://img.shields.io/badge/Email-111827?logo=gmail&logoColor=white)](mailto:sakhiajigar2020@gmail.com)  [![GitHub](https://img.shields.io/badge/GitHub-111827?logo=github&logoColor=white)](https://github.com/Jigar-cs)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=6" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jigar-cs&theme=chartreuse-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=6" />
+  <img src="https://streak-stats.demolab.com?user=Jigar-cs&theme=chartreuse-dark&hide_border=true" width="400" />
 </p>
 
 ---
@@ -58,7 +65,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-cs&bg_color=000000&color=00FF00&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jigar-cs&bg_color=000000&color=00FF00&line=39FF14&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -70,3 +77,14 @@
 </p>
 
 ---
+
+## 🌐 Socials
+<p align="center">
+  <a href="mailto:jigarsakhia2020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" />
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://github.com/Jigar-cs">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub" />
+  </a>
+</p>
