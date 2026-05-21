@@ -17,7 +17,7 @@
 
 ## 🚀 Featured Projects
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3>🗺️ Traveloop</h3>
@@ -76,7 +76,7 @@
 
 ### 🗄️ Databases & Developer Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -86,8 +86,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=6" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Jigar-cs&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=6" height="180" />
 </p>
 
 <p align="center">
