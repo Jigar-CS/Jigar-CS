@@ -7,48 +7,79 @@
 ---
 
 ## 🔥 About Me
-[cite_start]🚀 Computer Science Engineering undergraduate passionate about building scalable web solutions, optimizing core performance, and diving deep into technical problem-solving[cite: 11, 13, 14].
+🚀 Computer Science Engineering undergraduate passionate about building scalable web solutions, optimizing core performance, and diving deep into technical problem-solving.
 
-- [cite_start]💻 Passionate coder experienced in structuring logic across both frontend and backend architectures[cite: 13, 14, 18].
-- [cite_start]⚡ **Current Focus:** Strengthening Core CS fundamentals, Web Development (including Laravel MVC workflows), and SEO optimization[cite: 11, 13, 18, 42].
-- [cite_start]🎯 **Areas of Interest:** Data Structures & Algorithms, Database Management Systems, and Web Application Architecture[cite: 40, 41].
+- 💻 Passionate coder experienced in structuring logic across both frontend and backend architectures.
+- ⚡ **Current Focus:** Strengthening Core CS fundamentals, Web Development (including Laravel MVC workflows), and SEO optimization.
+- 🎯 **Areas of Interest:** Data Structures & Algorithms, Database Management Systems, and Web Application Architecture.
 
 ---
 
 ## 🚀 Featured Projects
-- [cite_start]🗺️ **Traveloop – Personalized Travel Planning App** – Designed an end-to-end relational database and responsive application to simplify multi-city travel planning. [cite_start]Features include an interactive day-wise itinerary builder, dynamic budget estimation and cost breakdowns, a per-trip packing checklist, and shared public itinerary views[cite: 131, 152, 157, 163].
-- [cite_start]🍱 **Online Food Ordering System** – Developed a web-based ordering application designed for a college canteen to systematically reduce peak-hour wait times[cite: 59].
-- [cite_start]💼 **Resource Management System** – Built during the online round of the Odoo Hackathon to track company employees, manage medical/paid leave requests, send real-time notifications, and generate overall salary reports[cite: 60, 62].
-- [cite_start]🤖 **AI Meeting Monitor** – Implemented live transcription, overall meeting sentiment detection, and automated text summarization for online meetings[cite: 63].
-- [cite_start]🎨 **Creative Art Gallery Website** – Built both completely hardcoded and fully dynamic versions to explore end-to-end data rendering workflows[cite: 64, 65].
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ Traveloop</h3>
+      <p><strong>Personalized Travel Planning App</strong></p>
+      <p>Designed an end-to-end relational database and responsive application to simplify multi-city travel planning. Features include an interactive day-wise itinerary builder, dynamic budget estimation with comprehensive cost breakdowns, a per-trip packing checklist, and shared public itinerary views.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Resource Management System</h3>
+      <p><strong>Odoo Hackathon Application</strong></p>
+      <p>Built during the online round of the Odoo Hackathon to track company employees, manage medical and paid leave requests seamlessly, dispatch real-time system notifications, and generate automated overall salary reports.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Meeting Monitor</h3>
+      <p><strong>Intelligent Assistant Platform</strong></p>
+      <p>Implemented an automation tool showcasing live text transcription, overall meeting sentiment detection pipelines, and automated text summarization models for online meetings.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍱 Online Food Ordering System</h3>
+      <p><strong>Canteen Management Solution</strong></p>
+      <p>Developed a web-based ordering application specifically tailored for a college canteen infrastructure designed to systematically reduce peak-hour wait times and streamline meal selections.</p>
+    </td>
+  </tr>
+</table>
+
+- 🎨 **Creative Art Gallery Website** – Built both completely hardcoded and fully dynamic versions to explore end-to-end data rendering workflows.
 
 ---
 
 ## 🏆 Hackathons & Milestones
 - 🏅 **Odoo x Parul Hackathon** – Successfully selected as the **26th team out of 103 final selected teams**, competing fiercely in an initial pool of over **700 teams**.
-- [cite_start]🏅 **State-Level MSBC Hackathon** – Selected among the **Top 25 teams across Gujarat** in a highly competitive state-level challenge organized by a multinational company, competing against 125+ teams[cite: 32].
-- [cite_start]🚀 **Adobe All India Level Hackathon** – Participated in national-level technical solution-building[cite: 33].
+- 🏅 **State-Level MSBC Hackathon** – Selected among the **Top 25 teams across Gujarat** in a highly competitive state-level challenge organized by a multinational company, competing against 125+ teams.
+- 🚀 **Adobe All India Level Hackathon** – Participated in national-level technical solution-building.
 
 ---
 
 ## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C logo" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++ logo" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java logo" style="margin: 10px;" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5 logo" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3 logo" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript logo" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP logo" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel logo" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js logo" style="margin: 10px;" />
+### 🚀 Languages & Core
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL logo" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git logo" style="margin: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub logo" style="margin: 10px;" />
-</div>
+### 🌐 Web & Backend Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Developer Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
